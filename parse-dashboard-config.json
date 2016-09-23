@@ -2,7 +2,7 @@
 {
   "apps": [
     {
-      "serverURL": "http://secret-mesa-28685.herokuapp.com/parse", // For an app still hosted on Parse.com
+      "serverURL": "http://secret-mesa-28685.herokuapp.com/parse",
       "appId": "myAppId",
       "javascriptKey": "myJavascriptKey",
       "restKey": "myRestKey",
@@ -19,7 +19,7 @@
 "users": [
   {
     "user":"user1",
-    "pass":"pass" // change this to something secure
+    "pass":"pass"
   }
   ]
 }
