@@ -2,7 +2,7 @@
 {
   "apps": [
     {
-      "serverURL": "http://secret-mesa-28685.herokuapp.com/parse",
+      "serverURL": "https://secret-mesa-28685.herokuapp.com/parse",
       "appId": "myAppId",
       "javascriptKey": "myJavascriptKey",
       "restKey": "myRestKey",
@@ -10,16 +10,10 @@
       "production": true
     },
   {
-    "serverURL": "http://secret-mesa-28685.herokuapp.com/parse",
+    "serverURL": "https://secret-mesa-28685.herokuapp.com/parse",
     "appId": "myAppId",
     "masterKey": "myMasterKey",
     "appName": "My Parse Server App"
   }
-],
-"users": [
-  {
-    "user":"user1",
-    "pass":"pass"
-  }
-  ]
+]
 }
