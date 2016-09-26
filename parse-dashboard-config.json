@@ -3,7 +3,7 @@
 {
   "apps": [
     {
-      "serverURL": "https://mysterious-wildwood-12327.herokuapp.com",
+      "serverURL": "https://mysterious-wildwood-12327.herokuapp.com/parse",
       "appId": "myAppId",
       "javascriptKey": "myJavascriptKey",
       "restKey": "myRestKey",
