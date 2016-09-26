@@ -3,7 +3,7 @@
 {
   "apps": [
     {
-      "serverURL": "https://parse-splcst.herokuapp.com/parse",
+      "serverURL": "https://parse-splcst.herokuapp.com",
       "appId": "myAppId",
       "javascriptKey": "myJavascriptKey",
       "restKey": "myRestKey",
