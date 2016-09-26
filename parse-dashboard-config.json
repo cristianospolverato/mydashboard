@@ -3,7 +3,7 @@
 {
   "apps": [
     {
-      "serverURL": "https://parse-splcst.herokuapp.com",
+      "serverURL": "https://waboo.herokuapp.com",
       "appId": "myAppId",
       "javascriptKey": "myJavascriptKey",
       "restKey": "myRestKey",
