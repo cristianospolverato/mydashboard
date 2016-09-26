@@ -7,15 +7,10 @@
       "appId": "myAppId",
       "javascriptKey": "myJavascriptKey",
       "restKey": "myRestKey",
+      "masterKey": "your_master_key",
       "appName": "My Parse.Com App",
       "production": true
-    },
-  {
-    "serverURL": "https://parse-splcst.herokuapp.com/parse",
-    "appId": "myAppId",
-    "masterKey": "myMasterKey",
-    "appName": "My Parse Server App"
-  }
+    }
 ],
   "users": [
         {
