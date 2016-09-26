@@ -3,7 +3,7 @@
 {
   "apps": [
     {
-      "serverURL": "https://waboo.herokuapp.com",
+      "serverURL": "https://waboo.herokuapp.com/parse",
       "appId": "myAppId",
       "javascriptKey": "myJavascriptKey",
       "restKey": "myRestKey",
