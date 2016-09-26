@@ -11,7 +11,7 @@
       "production": true
     },
   {
-    "serverURL": "https://parse-splcst.herokuapp.com:1337/parse",
+    "serverURL": "http://parse-splcst.herokuapp.com:1337/parse",
     "appId": "myAppId",
     "masterKey": "myMasterKey",
     "appName": "My Parse Server App"
