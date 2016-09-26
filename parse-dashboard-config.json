@@ -7,7 +7,7 @@
       "appId": "myAppId",
       "javascriptKey": "myJavascriptKey",
       "restKey": "myRestKey",
-      "masterKey": "your_master_key",
+      "masterKey": "myMasterKey",
       "appName": "My Parse.Com App",
       "production": true
     }
